@@ -1,4 +1,4 @@
-# LogiSim: An Android Logic Simulator: Design Document 
+# LogiSim: An Android Logic Simulator
 
 ## Our Vision: To Create an intuitive introduction to Logic Circuits
 
